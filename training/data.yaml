@@ -1,0 +1,7 @@
+path: C:\Users\rishav\OneDrive\Desktop\Samsung Solve\fire_smoke_danger_detector\Danger-Glasses\data
+train: C:\Users\rishav\OneDrive\Desktop\Samsung Solve\fire_smoke_danger_detector\Danger-Glasses\data\train\images
+val: C:\Users\rishav\OneDrive\Desktop\Samsung Solve\fire_smoke_danger_detector\Danger-Glasses\data\val\images
+names:
+  0: fire
+  1: smoke
+test: C:\Users\rishav\OneDrive\Desktop\Samsung Solve\fire_smoke_danger_detector\Danger-Glasses\data\test\images
